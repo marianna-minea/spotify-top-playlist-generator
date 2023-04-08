@@ -1,0 +1,7 @@
+# amplify
+amplify/
+build/
+aws-exports.js
+
+# node
+node_modules/
